@@ -1,6 +1,7 @@
 # Deep Learning Models For Image and Sequence Classification
 
 **Date**: September 12, 2022
+
 **Place**: The Jackson Laboratory, Bar Harbor, Maine, US 
 
 Shorten Link: http://bit.ly/jax2022nbs
